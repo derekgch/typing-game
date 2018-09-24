@@ -7,7 +7,7 @@ To install The Ultimate Typing Test, first fork and clone the backend repo at [t
 
 Once you have the backend running, fork and clone the frontend, which is in this repo. Then, open index.html in the browser. You will need to “log in” in order to play the game. Feel free to use the name "guest".
 
-##screenshot
+## Screenshot
 
 ![screen shot 2018-09-24 at 11 13 26 am](https://user-images.githubusercontent.com/25042871/45960797-ffd1eb80-bfea-11e8-82ad-3492b46bae66.png)
 
